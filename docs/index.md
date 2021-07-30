@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SydWebPrac/Web-Test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hello just want to say that wala akong alam sa mga pinag gagagawa ko hehe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also dont know why im saying this basta may mailagay lang ako sa website ko hehe
 
 ### Markdown
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Okayuu best grill okay
+Si Marine den 
+Syempre si Noelle den HAHAHAHA
 
 - Bulleted
 - List
